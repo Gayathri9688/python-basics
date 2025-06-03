@@ -236,7 +236,7 @@ for i in range(0,n):
 # rav
 # ra
 # r
-s="ram"
+s="ravi"
 for i in range(1,len(s)):
     print(s[:i])
 for i in range(len(s),0,-1):
